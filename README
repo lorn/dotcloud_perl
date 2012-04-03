@@ -1,0 +1,2 @@
+dotcloud create catalyst2
+dotcloud push catalyst2 .
